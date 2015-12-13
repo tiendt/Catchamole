@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	import flash.events.MouseEvent;	public class MoleCatcher extends MovieClip	{		public function MoleCatcher()		{			this.startDrag(true); 		} 	}}
